@@ -3,6 +3,8 @@
 App to search Github users and display their info.
 This project i made in React during studying the course "Udemy - Front To Back 2022".
 
+[Live Link](https://user-github-finder.vercel.app/)
+
 [Link to YouTube to see how it works](https://youtu.be/CNCVaRlXmQ8)
 
 </br>
